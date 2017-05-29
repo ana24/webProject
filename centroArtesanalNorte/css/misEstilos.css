@@ -1,0 +1,14 @@
+.cambiarBorder{
+	border-radius: 10px;
+	box-shadow: 4px 4px 14px 0px rgba(58,58,66,1);
+}
+
+.cambiarEscala{
+    -moz-transition: -moz-transform 1s ease-in-out 0.1s;
+    -webkit-transition: -webkit-transform 1s ease-in-out 0.1s;
+}
+
+.cambiarEscala:hover{
+	-moz-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+}
