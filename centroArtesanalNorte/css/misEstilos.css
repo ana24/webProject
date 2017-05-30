@@ -12,3 +12,11 @@
 	-moz-transform: scale(1.05);
     -webkit-transform: scale(1.05);
 }
+#navActive li a:hover{
+	background: #ddd;
+}
+
+#activo{
+	color: black;
+	background-color: #ccc;
+}
